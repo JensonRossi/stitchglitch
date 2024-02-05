@@ -14,7 +14,7 @@
      - Images or multimedia showcasing the project
      - Reflection on what was learned and achieved
 
-### Subject 2: [Subject Name]
+### Subject 2: [Jenson]
    - **Project 2: [Project Title]**
      - Brief description
      - Images or multimedia showcasing the project
