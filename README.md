@@ -1,5 +1,6 @@
-# [Student Name]'s Digital Portfolio - [School Year]
+# [Jensons]'s Digital Portfolio - [2024]
 
+{avatar (https://readyplayer.me/gallery/65e644bc31e5a611a0cd49cb) }
 ## 1. Introduction:
    - Brief introduction about the student, their interests, and goals for the year.
 
